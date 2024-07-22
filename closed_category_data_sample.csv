@@ -1,0 +1,101 @@
+TYPE,NAME,CONTEXT,LANGUAGE,FILE,LINE NUMBER,SPLIT IDENTIFIER,GRAMMAR PATTERN
+int*,gui_line_has_tag_no_filter,FUNCTION,C,cloned_repositories/weechat.git/src/gui/gui-line.c,734,gui line has tag no filter,PRE PRE V N DT N
+ProjResult,result2,DECLARATION,Java,drill.git/exec/java-exec/src/main/java/org/apache/drill/exec/physical/resultSet/impl/ProjectionFilter.java,311,result 2,N D
+void,onTick,FUNCTION,Java,drill.git/drill-yarn/src/main/java/org/apache/drill/yarn/appMaster/Dispatcher.java,167,on Tick,P N
+Point3,row2,DECLARATION,C++,cloned_repositories/panda3d.git/pandatool/src/maxegg/maxToEggConverter.cxx,451,row 2,N D
+String,nextFieldName,FUNCTION,Java,cloned_repositories/immutables.git/criteria/mongo/src/org/immutables/criteria/mongo/bson4jackson/BsonParser.java,118,next Field Name,DT NM N
+long,offBits,PARAMETER,C++,cloned_repositories/panda3d.git/panda/src/pnmimagetypes/pnmFileTypeBMPReader.cxx,400,off Bits,NM NPL
+long,arg29,PARAMETER,Java,cloned_repositories/deeplearning4j.git/nd4j/nd4j-backends/nd4j-backend-impls/nd4j-native/src/main/java/org/nd4j/linalg/cpu/nativecpu/OpenblasLapackDelegator.java,11856,arg 29,N D
+boolean,ifPresent,PARAMETER,Java,cloned_repositories/immutables.git/value-processor/src/org/immutables/value/processor/meta/AnnotationInjections.java,202,if Present,CJ NM
+int,as_binary,ATTRIBUTE,C,cloned_repositories/rigraph.git/src/vendor/cigraph/vendor/glpk/mpl/mpl.h,244,as binary,P N
+void,init2,FUNCTION,C++,cloned_repositories/toggldesktop.git/third_party/poco/Net/src/RawSocketImpl.cpp,63,init 2,N D
+class,AbstractSV2Copier,CLASS,Java,drill.git/exec/java-exec/src/main/java/org/apache/drill/exec/physical/impl/svremover/AbstractSV2Copier.java,64,Abstract SV 2 Copier,NM N D N
+void,onServerEgressPaused,FUNCTION,C++,cloned_repositories/proxygen.git/proxygen/httpserver/samples/proxy/ProxyHandler.cpp,170,on Server Egress Paused,P NM N V
+auto,after2,DECLARATION,C++,cloned_repositories/meta.git/src/analyzers/filters/ptb_normalizer.cpp,164,after 2,P D
+uint32_t,lefttoparse,DECLARATION,C++,cloned_repositories/proxygen.git/proxygen/lib/http/codec/HTTP2Framer.cpp,341,left to parse,V P V
+Builder,withConf,FUNCTION,Java,drill.git/exec/java-exec/src/main/java/org/apache/drill/exec/store/parquet/ParquetReaderConfig.java,164,with Conf,P N
+uint64_t,x4,ATTRIBUTE,C,cloned_repositories/facebook-repo-ds2.git/Headers/DebugServer2/Architecture/ARM64/CPUState.h,43,x 4,N D
+int,INVERSE_COMPUTE_FOR_WORD_OF_ALL_1S,ATTRIBUTE,Java,cloned_repositories/guava.git/android/guava/src/com/google/common/hash/Crc32cHashFunction.java,355,INVERSE COMPUTE FOR WORD OF ALL 1S,V N P N P DT NPL
+primitive,any_hidden,PARAMETER,C++,cloned_repositories/panda3d.git/panda/src/egg2pg/eggLoader.cxx,2701,any hidden,DT NM
+CLzmaEncProps,props2,PARAMETER,C,cloned_repositories/toggldesktop.git/third_party/poco/SevenZip/src/LzmaEnc.h,35,props 2,NPL D
+DeclaringPackage,forPackage,FUNCTION,Java,cloned_repositories/immutables.git/value-processor/src/org/immutables/value/processor/meta/Proto.java,93,for Package,NM N
+string,str_iam_v2_token,DECLARATION,C++,cloned_repositories/s3fs-fuse.git/src/s3fs_cred.cpp,483,str iam v2 token,NM NM NM N
+bool,no_truncate,PARAMETER,C++,cloned_repositories/s3fs-fuse.git/src/cache.cpp,337,no truncate,DT V
+uint64_t,x8,ATTRIBUTE,C,cloned_repositories/facebook-repo-ds2.git/Headers/DebugServer2/Architecture/ARM64/CPUState.h,43,x 8,N D
+curandGenerator_t,curand_generator,FUNCTION,C++,cloned_repositories/caffe.git/include/caffe/common.hpp,136,cur and generator,N CJ N
+time_t,now_time,DECLARATION,C++,s3fs-fuse.git/src/mpu_util.cpp,68,now time,VM N
+Map,allDrillbits,DECLARATION,Java,drill.git/exec/java-exec/src/main/java/org/apache/drill/exec/planner/fragment/QueueQueryParallelizer.java,156,all Drill bits,DT NM NPL
+void,sqlite3Fts3HashFind,DECLARATION,C,cloned_repositories/toggldesktop.git/third_party/poco/Data/SQLite/src/sqlite3.c,148473,sqlite3 Fts3 Hash Find,PRE PRE N V
+bool,in_best_path,ATTRIBUTE,C++,cloned_repositories/rigraph.git/src/core/isomorphism/bliss/graph.cc,597,in best path,P NM N
+BIO,inkey_bio,DECLARATION,C,cloned_repositories/toggldesktop.git/third_party/openssl/apps/ts.c,581,inkey bio,NM N
+u64,last_time_ms,ATTRIBUTE,C++,cloned_repositories/freeminer.git/src/client/client.cpp,1941,last time ms,DT N NM
+ExAttributes,outExAttributes,PARAMETER,C++,cloned_repositories/proxygen.git/proxygen/lib/http/codec/HTTP2Framer.cpp,400,out Ex Attributes,NM NM NPL
+string,toupper,FUNCTION,C++,cloned_repositories/meta.git/src/utf/utf.cpp,94,to upper,P NM
+Group,nextElement,ATTRIBUTE,Java,cloned_repositories/Openfire.git/xmppserver/src/main/java/org/jivesoftware/openfire/group/GroupCollection.java,64,next Element,DT N
+long,lastPendingTaskCache,ATTRIBUTE,Java,cloned_repositories/Singularity.git/SingularityService/src/main/java/com/hubspot/singularity/data/SingularityWebCache.java,25,last Pending Task Cache,DT NM NM N
+LogicalExpression,thatExpr,PARAMETER,Java,drill.git/exec/java-exec/src/main/java/org/apache/drill/exec/expr/EqualityVisitor.java,324,that Expr,DT N
+uint64_t,last_id,DECLARATION,C++,cloned_repositories/meta.git/include/meta/index/postings_data.tcc,166,last id,DT N
+int,conditional_match_onbranch,FUNCTION,C,cloned_repositories/git2r.git/src/libgit2/src/libgit2/config_file.c,670,conditional match on branch,NM N P N
+NativeLong,til_or_since,ATTRIBUTE,Java,cloned_repositories/Spark.git/core/src/main/java/org/jivesoftware/sparkimpl/plugin/idle/linux/LinuxIdleTime.java,31,til or since,P CJ P
+int,num_of_gops,ATTRIBUTE,C,cloned_repositories/wireshark.git/plugins/epan/mate/mate.h,336,num of gops,N P NPL
+List,asStripes,DECLARATION,Java,cloned_repositories/guava.git/guava/src/com/google/common/util/concurrent/Striped.java,183,as Stripes,P NPL
+int,soTimeout,DECLARATION,Java,cloned_repositories/Openfire.git/xmppserver/src/main/java/org/jivesoftware/openfire/session/LocalOutgoingServerSession.java,311,s o Timeout,NM NM N
+igraph_adjlist_t,inlist,DECLARATION,C,cloned_repositories/rigraph.git/src/vendor/cigraph/src/misc/embedding.c,621,in list,NM N
+K,fromKey,PARAMETER,Java,cloned_repositories/guava.git/android/guava/src/com/google/common/collect/Maps.java,4289,from Key,P N
+string,username_only,DECLARATION,C++,cloned_repositories/panda3d.git/panda/src/downloader/httpDigestAuthorization.cxx,136,username only,N VM
+TaskStatus,nextInMemory,FUNCTION,Java,cloned_repositories/Singularity.git/SingularityService/src/main/java/com/hubspot/singularity/mesos/StatusUpdateQueue.java,85,next In Memory,DT P N
+int,conv_out_channels_,ATTRIBUTE,C++,cloned_repositories/caffe.git/include/caffe/layers/base_conv_layer.hpp,161,conv out channels,NM NM NPL
+int,_next_tex,ATTRIBUTE,C++,cloned_repositories/panda3d.git/pandatool/src/maxegg/maxEggLoader.cxx,78,next tex,DT N
+Set,allMetrics,DECLARATION,Java,drill.git/contrib/storage-opentsdb/src/main/java/org/apache/drill/exec/store/openTSDB/OpenTSDBGroupScan.java,106,all Metrics,DT NPL
+servicesmember,this_servicesmember,DECLARATION,C,cloned_repositories/naemon-core.git/src/naemon/objects_host.c,226,this services member,DT NM N
+Int64,asInt64,FUNCTION,C++,cloned_repositories/toggldesktop.git/third_party/jsoncpp/src/lib_json/json_value.cpp,672,as Int64,P N
+char,ptr_next,DECLARATION,C,cloned_repositories/weechat.git/src/core/wee-string.c,221,ptr next,N DT
+uint16_t,l4_ofs,ATTRIBUTE,C,cloned_repositories/ovs.git/lib/dp-packet.h,139,l 4 ofs,N D N
+String,fromEmail,PARAMETER,Java,cloned_repositories/Openfire.git/xmppserver/src/main/java/org/jivesoftware/util/EmailService.java,169,from Email,P N
+double,as_of,PARAMETER,C,cloned_repositories/panda3d.git/panda/src/pstatclient/pStatCollector.h,89,as of,P P
+int,num_vertices_per_primitive,DECLARATION,C++,cloned_repositories/panda3d.git/panda/src/gobj/geomPrimitive.cxx,748,num vertices per primitive,NM NPL P N
+void,_instr_max,ATTRIBUTE,C++,cloned_repositories/toggldesktop.git/third_party/plcrashreporter/Source/dwarf_opstream.hpp,70,instr max,NM N
+size_t,get_start_r1,FUNCTION,C++,cloned_repositories/meta.git/src/analyzers/filters/porter2_stemmer.cpp,67,get start r 1,V NM N D
+int,DECIMAL38DENSE_VALUE,ATTRIBUTE,Java,drill.git/protocol/src/main/java/org/apache/drill/common/types/TypeProtos.java,595,DECIMAL 38 DENSE VALUE,NM D NM N
+boolean,asArray,ATTRIBUTE,Java,drill.git/contrib/format-log/src/main/java/org/apache/drill/exec/store/log/LogBatchReader.java,55,as Array,P N
+size_t,last_in_target,DECLARATION,C,cloned_repositories/git2r.git/src/libgit2/src/libgit2/blame_git.c,102,last in target,DT P N
+List,pastThreshold,DECLARATION,Java,cloned_repositories/Singularity.git/SingularityService/src/main/java/com/hubspot/singularity/scheduler/SingularityCrashLoops.java,88,past Threshold,P N
+String,toYaml,FUNCTION,Java,cloned_repositories/deeplearning4j.git/deeplearning4j/deeplearning4j-core/src/main/java/org/deeplearning4j/core/listener/HardwareMetric.java,167,to Yaml,P N
+int,xto,PARAMETER,C++,cloned_repositories/panda3d.git/panda/src/pnmimage/pnmBrush.cxx,57,x to,N P
+png_size_t,save_buffer_max,ATTRIBUTE,C,cloned_repositories/toggldesktop.git/third_party/poco/PDF/include/Poco/PDF/png.h,1286,save buffer max,V NM N
+void,tempData2,ATTRIBUTE,C++,cloned_repositories/caffe.git/include/caffe/layers/cudnn_lcn_layer.hpp,43,temp Data 2,NM N D
+double,m22,ATTRIBUTE,C++,cloned_repositories/freeminer.git/src/mandelbulber/algebra.hpp,135,m 22,N D
+int*,string_base16_decode,FUNCTION,C,cloned_repositories/weechat.git/src/core/wee-string.c,3369,string base16 decode,N NM V
+Var,asVar,FUNCTION,C++,cloned_repositories/toggldesktop.git/third_party/poco/JSON/src/Handler.cpp,34,as Var,P N
+string,in_propName,PARAMETER,C++,drill.git/contrib/native/client/src/include/drill/userProperties.hpp,36,in prop Name,NM NM N
+bool,nocache,PARAMETER,C,cloned_repositories/freeminer.git/src/map.h,154,no cache,DT N
+void,set_server_and_port,FUNCTION,C++,cloned_repositories/panda3d.git/panda/src/downloader/urlSpec.cxx,465,set server and port,V N CJ N
+boolean,supportsJoinPushdown,ATTRIBUTE,Java,drill.git/exec/java-exec/src/main/java/org/apache/drill/exec/store/StoragePluginRulesSupplier.java,87,supports Join Push down,V V V P
+uint64_t,last_term,ATTRIBUTE,C,cloned_repositories/ovs.git/ovsdb/raft-rpc.h,223,last term,DT N
+double,orSel,DECLARATION,Java,drill.git/exec/java-exec/src/main/java/org/apache/drill/exec/planner/cost/DrillRelMdDistinctRowCount.java,329,or Sel,NM N
+int,inMemCount,PARAMETER,Java,drill.git/exec/java-exec/src/main/java/org/apache/drill/exec/physical/impl/xsort/SortMemoryManager.java,663,in Mem Count,P NM N
+int,waiting_for_dht_connection,DECLARATION,C,cloned_repositories/toxcore.git/other/bootstrap_daemon/src/tox-bootstrapd.c,314,waiting for dht connection,V P NM N
+int,conv_out_spatial_dim_,ATTRIBUTE,C++,cloned_repositories/caffe.git/include/caffe/layers/base_conv_layer.hpp,163,conv out spatial dim,NM NM NM N
+double,term_and_class,FUNCTION,C++,cloned_repositories/meta.git/src/features/feature_selector.cpp,236,term and class,N CJ N
+char,passin,DECLARATION,C,cloned_repositories/toggldesktop.git/third_party/openssl/apps/ts.c,162,pass in,NM N
+bool,isHTTP1_1,FUNCTION,C++,cloned_repositories/proxygen.git/proxygen/lib/http/HTTPMessage.cpp,335,is HTTP11,V N
+boolean,incomingHasSv2,DECLARATION,Java,drill.git/exec/java-exec/src/main/java/org/apache/drill/exec/physical/impl/TopN/TopNBatch.java,185,incoming Has Sv 2,V V N D
+off_t,alias_off,ATTRIBUTE,C,cloned_repositories/ccv.git/lib/nnc/_ccv_nnc_dynamic_graph.h,31,alias off,NM N
+int,endfor,DECLARATION,C,cloned_repositories/freeminer.git/lib/lua/src/lparser.c,1050,end for,V N
+void,ptr1,PARAMETER,C++,cloned_repositories/proxygen.git/proxygen/lib/dns/Rfc6724.cpp,338,ptr 1,N D
+AnnotationMirror,asCaching,FUNCTION,Java,cloned_repositories/immutables.git/value-processor/src/org/immutables/value/processor/meta/CachingElements.java,87,as Caching,P V
+bool,force_nd_im2col_,ATTRIBUTE,C++,cloned_repositories/caffe.git/include/caffe/layers/base_conv_layer.hpp,94,force nd im 2 col,V NM N P N
+void*,spx_nt_prod1,FUNCTION,C,cloned_repositories/rigraph.git/src/vendor/cigraph/vendor/glpk/simplex/spxat.c,143,spx nt prod 1,PRE NM N D
+char,words_to_add,PARAMETER,C,cloned_repositories/weechat.git/src/gui/gui-buffer.c,1686,words to add,NPL P V
+String,period_noPeriod,ATTRIBUTE,Java,cloned_repositories/Spark.git/core/src/main/java/org/jivesoftware/sparkimpl/plugin/transcripts/HistoryTranscript.java,61,period no Period,N DT N
+int,B1110,ATTRIBUTE,Java,cloned_repositories/deeplearning4j.git/datavec/datavec-api/src/main/java/org/datavec/api/records/IOUtils.java,259,B 1110,N D
+auto,merged3,ATTRIBUTE,C++,cloned_repositories/deeplearning4j.git/libnd4j/include/ops/declarable/helpers/cpu/summaryReductions.hpp,347,merged 3,N D
+T,thisObject,PARAMETER,Java,cloned_repositories/Smack.git/smack-core/src/main/java/org/jivesoftware/smack/util/EqualsUtil.java,24,this Object,DT N
+SqlNode,whereClause,ATTRIBUTE,Java,drill.git/exec/java-exec/src/main/java/org/apache/drill/exec/planner/sql/parser/SqlShowSchemas.java,43,where Clause,NM N
+u8,aOldRecord1,PARAMETER,C,cloned_repositories/ccv.git/lib/3rdparty/sqlite3/sqlite3.c,213327,a Old Record 1,PRE NM N D
+ofpbuf*,ofpbuf_clone_with_headroom,FUNCTION,C,cloned_repositories/ovs.git/lib/ofpbuf.c,196,ofp buf clone with headroom,PRE PRE N P N
+LVector3,_up,ATTRIBUTE,C++,cloned_repositories/panda3d.git/panda/src/display/graphicsOutput.cxx,52,up,P
+K,lastKey,FUNCTION,Java,cloned_repositories/guava.git/android/guava/src/com/google/common/collect/AbstractMapBasedMultimap.java,1474,last Key,DT N
+char,command2,DECLARATION,C,cloned_repositories/weechat.git/src/core/hook/wee-hook-command-run.c,105,command 2,N D
+int,index_as_child,ATTRIBUTE,C++,cloned_repositories/deeplearning4j.git/libnd4j/include/ops/declarable/helpers/impl/ctcBeam.cpp,274,index as child,V P N
+void*,remove_from_menu_bar,FUNCTION,C++,cloned_repositories/panda3d.git/pandatool/src/win-stats/winStatsChartMenu.cxx,76,remove from menu bar,V P NM N
